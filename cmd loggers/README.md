@@ -1,4 +1,4 @@
-#cmd loggers
+# cmd loggers
 pretty good, works with stubs u can use mine but it was made for discord token logging it should be in the parent directory of this file
 logic works the same way for each logger, u download the logger builder and then bind the file of correct extension to the exe file
 
