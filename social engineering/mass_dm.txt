@@ -1,0 +1,3 @@
+step 1. generate a phishing link (https://discord.gg/aUYQm48Hxq, https://discord.gg/8ypzgBW9Wb)
+step 2. go to https://github.com/V4NSH4J/discord-mass-DM-GO
+step 3. read the tutorial there, make the message like "yo wanna join my game" or some shit just add the phishging link there, more people the better
